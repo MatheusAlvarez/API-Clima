@@ -18,7 +18,7 @@ API-Clima é um projeto desenvolvido através do Curso Técnico de Desenvolvimen
 - JavaScript
 
 ## API - Utilizada
-https://viacep.com.br
+https://openweathermap.org/api
 
 # Autor
 
