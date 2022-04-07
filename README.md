@@ -21,7 +21,6 @@ API-Climate is a project developed through the Systems Development Technical Cou
 https://openweathermap.org/api
 
 # Author
-
 Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
