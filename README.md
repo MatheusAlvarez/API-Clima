@@ -1,6 +1,7 @@
 # API-Clima
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/API-ViaCEP/blob/main/LICENSE) 
 
+
 # About the project
 https://matheusalvarez.github.io/API-Clima/
 
