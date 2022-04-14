@@ -7,21 +7,22 @@ https://matheusalvarez.github.io/API-Clima/
 
 API-Climate is a project developed through the Systems Development Technical Course of SENAI Suiço-Brasileira where the main objective of the project is to consume a climate API and show the temperature after the user enters the City, State and Country.
 
-## Layout mobile
+## 📌 Layout mobile
 ![Mobile 1](https://github.com/MatheusAlvarez/API-Clima/blob/main/assets/mobile.png)
 
-## Layout web
+## 📌 Layout web
 ![Web 1](https://github.com/MatheusAlvarez/API-Clima/blob/main/assets/web.png)
 
-## Technologies used
+## 📌 Technologies used
 - HTML
 - CSS
 - JavaScript
 
-## API - Used
+## 📌 API - Used
 https://openweathermap.org/api
 
-# Author
-Matheus Maia Alvarez
+
+# 🕴️ Author
+   👨‍💻Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
